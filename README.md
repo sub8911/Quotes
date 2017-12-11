@@ -47,9 +47,9 @@
 ### 4.Detailed information on the processing of Personal Data
 	Personal Data is collected for the following purposes and using the following services:
 
-	##### 1.Access to third party accounts
-	##### 2.Hosting and backend infrastructure
-	##### 3.Registration and authentication
+     1.Access to application data from google spread-sheet
+     2.Hosting and backend infrastructure
+     3.Registration and authentication
 
 ### II.Additional information about Data collection and processing
 
